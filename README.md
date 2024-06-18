@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUDHARSANAN-J
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sudharsanan004@gmail.com
 - 😄 Pronouns: He / Him
